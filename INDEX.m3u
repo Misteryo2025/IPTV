@@ -15,7 +15,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1,MNC TV 2
 https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1,RCTI 1
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1,RCTI 2
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1,SCTV
